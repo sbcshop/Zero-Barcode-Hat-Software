@@ -36,13 +36,13 @@ First of all, move all the files from the applications folder to the outside fol
 
 ## Working of Applications 
   * Smart shopping
-  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img1.JPG" />
+  <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img1.png" />
   
   * Smart Library Management System
-  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img4.JPG" />
+  <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img4.png" />
   
   * Smart Attendence System
-  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img2.JPG" />
+  <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img2.png" />
 
    
 
