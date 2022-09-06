@@ -10,11 +10,11 @@
 ## Setup Pi Zero Barcode HAT
 First, you need to change the mode of the Zero Barcode HAT. Put Zero Barcode HAT at the top of the raspberry pi, then you need to scan the below barcode settings before running the code 
 
- * Mode is TTL/RS232 (serial communication interface(UART)) for this you need to scan below the barcode, Connect USB to Zero Barcode Hat For Raspberry Pi.
+ * Mode is TTL/RS232 (serial communication interface(UART)) for this you need to scan below the barcode, Connect USB to Zero Barcode Hat.
   
 <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/ttl_rs232.JPG" />
    
- * Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat For Raspberry Pi.
+ * Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.
 
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
