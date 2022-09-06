@@ -22,8 +22,6 @@ First, you need to change the mode of the Zero Barcode HAT. Put Zero Barcode HAT
 For this you need to scan below barcode settings
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
   
- <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img5.JPG" />
-
 ## Working
 <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img6.png" />
 
