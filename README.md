@@ -18,7 +18,7 @@ First, you need to change the mode of the Zero Barcode HAT. Put Zero Barcode HAT
 
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
-## Use Pi Zero Barcode Hat without Raspberry Pi( Via USB Cable )
+## Use Zero Barcode Hat without Raspberry Pi( Via USB Cable )
 For this you need to scan below barcode settings
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
   
