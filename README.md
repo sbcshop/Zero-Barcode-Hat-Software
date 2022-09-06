@@ -25,7 +25,7 @@ For this you need to scan below barcode settings
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img5.JPG" />
 
 ## Working
-<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img6.JPG" />
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img6.png" />
 
 ## Applications
 First of all, move all the files from the applications folder to the outside folder which is the Zero Barcode HAT folder, so that main.py could access the files in the lib sub-directory
