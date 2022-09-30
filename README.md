@@ -49,13 +49,13 @@
 ## Use Zero Barcode HAT without Raspberry Pi( Via USB Cable )
 You can also use this barcode HAT simply with USB cable for reading (without any controller board). 
 
-Step.1 - For this you simply need to scan the Below barcode and Yor barcode scanner is now ready to work in USB keyboard mode.
+#### Step 1 - For this you simply need to scan the Below barcode and Yor barcode scanner is now ready to work in USB keyboard mode.
 
-<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
+   <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
   
-Step.2 - In USB keyboard mode, you have to open a notepad/word and scan any barcode or QR-code to get thier number in your system. As shown in image below
+#### Step 2 - In USB keyboard mode, you have to open a notepad/word and scan any barcode or QR-code to get thier number in your system. As shown in image below
 
-<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC.PNG" />
+   <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC.PNG" />
 
 
 ## Working
