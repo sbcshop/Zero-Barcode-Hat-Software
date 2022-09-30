@@ -30,19 +30,18 @@
    * After Finishing it-up reboot your RPi by typing reboot command and press enter
      <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC7.PNG" /> 
 
-#### Step.2 - Now, Setup your Pi Zero Barcode HAT for using with RPi
+#### Step 2 - Now, Setup your Pi Zero Barcode HAT for using with RPi
 
-Step 2.1 - After attaching the Barcode HAT to the RPi Zero, turn it on with a USB cable and begin configuring the barcode scanner for RPi. 
+   * After attaching the Barcode HAT to the RPi Zero, turn it on with a USB cable and begin configuring the barcode scanner for RPi. 
 
-Step 2.2 - First, you need to change the mode of the Zero Barcode HAT for this you need to scan the below barcode settings before running the code
+   * First, you need to change the mode of the Zero Barcode HAT for this you need to scan the below barcode settings before running the code
   
-<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/ttl_rs232.JPG" />
+   <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/ttl_rs232.JPG" />
    
-Step 2.3 - In this step you have to Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.    You can also change the baud rate according to your choice by reffering to Barcode Manual provided in this Repo
-   
- <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
+   * In this step you have to Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.    You        can also change the baud rate according to your choice by reffering to Barcode Manual provided in this Repo
+     <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
-Step 2.4 - The DE2120 is completely user configurable, you can configure many settings according to your requirement by reffering the DE2120 Manual(Barcode manual) provided in this Repo
+   * The DE2120 is completely user configurable, you can configure many settings according to your requirement by reffering the DE2120 Manual(Barcode manual) provided      in this Repo
 
 ## Use Zero Barcode HAT without Raspberry Pi( Via USB Cable )
 You can also use this barcode HAT simply with USB cable for reading (without any controller board). 
