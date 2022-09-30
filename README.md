@@ -9,23 +9,56 @@
   * **DE2120_Datasheet.pdf (Datasheet of DE2120)**
   * **Setting_Manual_DY_Scan_DE2120.pdf (Set settings of barcode)**
   
-### Enable the SPI first in raspberry pi, for this go to cmd then type ```sudo raspi-config``` then go to ->interface option -> SPI - YES
+  
+### Steps for setup RPi to work with Zero-Barcode HAT
 
-## Setup Pi Zero Barcode HAT
-First, you need to change the mode of the Zero Barcode HAT. Put Zero Barcode HAT at the top of the raspberry pi, then you need to scan the below barcode settings before running the code 
+Step.1 - So, before start working with this module first you have to enable the SPI in raspberry pi, for this go to cmd then type sudo raspi-config then go to ->interface option -> and enable the SPI by Following the below image steps
+ Step1.1 - After typing the command in your command line press enter, it will take you on a new tab of configuring RPi.
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC1.PNG" /> 
 
- * Mode is TTL/RS232 (serial communication interface(UART)) for this you need to scan below the barcode, Connect USB to Zero Barcode Hat.
+Step1.2 - As the below image showing a tab to configure your RPi, use arrow key of your keyboard and go to Interface options and press enter. After that keep following the image instruction till finish SPI configuration 
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC2.PNG" /> 
+
+Step1.3
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC3.PNG" /> 
+
+Step1.4 
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC4.PNG" /> 
+
+Step1.5 
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC5.PNG" /> 
+
+Step1.6
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC6.PNG" /> 
+
+Step1.7 - After Finishing it-up reboot your RPi by typing reboot command and press enter
+
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC7.PNG" /> 
+
+Step.2 - Now, Setup your Pi Zero Barcode HAT for using with RPi
+
+Step 2.1 - After attaching the Barcode HAT to the RPi Zero, turn it on with a USB cable and begin configuring the barcode scanner for RPi. 
+
+Step 2.2 - First, you need to change the mode of the Zero Barcode HAT for this you need to scan the below barcode settings before running the code
   
 <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/ttl_rs232.JPG" />
    
- * Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.
-
+   Step 2.3 - In this step you have to Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.    You can also change the baud rate according to your choice by reffering to Barcode Manual provided in this Repo
+   
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
-## Use Zero Barcode Hat without Raspberry Pi( Via USB Cable )
-For this you need to scan below barcode settings
+Step 2.4 - The DE2120 is completely user configurable, you can configure many settings according to your requirement by reffering the DE2120 Manual(Barcode manual) provided in this Repo
+
+## Use Zero Barcode HAT without Raspberry Pi( Via USB Cable )
+You can also use this barcode HAT simply with USB cable for reading (without any controller board). 
+
+Step.1 - For this you simply need to scan the Below barcode and Yor barcode scanner is now ready to work in USB keyboard mode.
+
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
   
+Step.2 - In USB keyboard mode, you have to open a notepad/word and scan any barcode or QR-code to get thier number in your system. As shown in image below
+
+
 ## Working
 <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img6.png" />
 
