@@ -12,7 +12,7 @@
   
 ### Steps for setup RPi to work with Zero-Barcode HAT
 
-Step.1 - So, before start working with this module first you have to enable the SPI in raspberry pi, for this go to cmd then type sudo raspi-config then go to ->interface option -> and enable the SPI by Following the below image steps
+#### Step.1 - So, before start working with this module first you have to enable the SPI in raspberry pi, for this go to cmd then type sudo raspi-config then go to ->interface option -> and enable the SPI by Following the below image steps
  Step1.1 - After typing the command in your command line press enter, it will take you on a new tab of configuring RPi.
 <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC1.PNG" /> 
 
@@ -35,7 +35,7 @@ Step1.7 - After Finishing it-up reboot your RPi by typing reboot command and pre
 
 <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC7.PNG" /> 
 
-Step.2 - Now, Setup your Pi Zero Barcode HAT for using with RPi
+#### Step.2 - Now, Setup your Pi Zero Barcode HAT for using with RPi
 
 Step 2.1 - After attaching the Barcode HAT to the RPi Zero, turn it on with a USB cable and begin configuring the barcode scanner for RPi. 
 
