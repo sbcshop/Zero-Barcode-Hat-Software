@@ -19,17 +19,13 @@
    * As the below image showing a tab to configure your RPi, use arrow key of your keyboard and go to Interface options and press enter. After that keep following the      image instruction till finish SPI configuration 
      <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC2.PNG" /> 
 
-   *
-    <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC3.PNG" /> 
+   * <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC3.PNG" /> 
 
-   * 
-    <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC4.PNG" /> 
+   * <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC4.PNG" /> 
 
-   * 
-     <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC5.PNG" /> 
+   * <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC5.PNG" /> 
 
-   *
-     <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC6.PNG" /> 
+   * <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC6.PNG" /> 
 
    * After Finishing it-up reboot your RPi by typing reboot command and press enter
      <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC7.PNG" /> 
