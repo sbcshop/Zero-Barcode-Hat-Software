@@ -42,7 +42,10 @@
      <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
    * The DE2120 is completely user configurable, you can configure many settings according to your requirement by reffering the DE2120 Manual(Barcode manual) provided      in this Repo
-
+ 
+#### Step 3 - Code 
+   * **barcode_scanner.py** - Run this file in raspberry pi, Now scan the barcode, you will see barcode also show in display
+ 
 ## Use Zero Barcode HAT without Raspberry Pi( Via USB Cable )
 You can also use this barcode HAT simply with USB cable for reading (without any controller board). 
 
