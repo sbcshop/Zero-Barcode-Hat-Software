@@ -52,7 +52,7 @@ Step.1 - For this you simply need to scan the Below barcode and Yor barcode scan
   
 Step.2 - In USB keyboard mode, you have to open a notepad/word and scan any barcode or QR-code to get thier number in your system. As shown in image below
 
-<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/SC.JPG" />
+<img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/SC.PNG" />
 
 
 ## Working
