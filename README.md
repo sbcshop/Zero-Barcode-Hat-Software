@@ -7,7 +7,7 @@
 
 ## Important Datasheets in this directory 
   * **DE2120_Datasheet.pdf (Datasheet of DE2120)**
-  * **Setting_Manual_DY_Scan_DE2120.pdf (Set settings of barcode)
+  * **Setting_Manual_DY_Scan_DE2120.pdf (Set settings of barcode)**
   
 ### Enable the SPI first in raspberry pi, for this go to cmd then type ```sudo raspi-config``` then go to ->interface option -> SPI - YES
 
