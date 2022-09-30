@@ -43,7 +43,7 @@ Step 2.2 - First, you need to change the mode of the Zero Barcode HAT for this y
   
 <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/ttl_rs232.JPG" />
    
-   Step 2.3 - In this step you have to Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.    You can also change the baud rate according to your choice by reffering to Barcode Manual provided in this Repo
+Step 2.3 - In this step you have to Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Zero Barcode Hat.    You can also change the baud rate according to your choice by reffering to Barcode Manual provided in this Repo
    
  <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/baudrate.JPG" />
 
@@ -54,9 +54,11 @@ You can also use this barcode HAT simply with USB cable for reading (without any
 
 Step.1 - For this you simply need to scan the Below barcode and Yor barcode scanner is now ready to work in USB keyboard mode.
 
- <img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
+<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/img7.JPG" />
   
 Step.2 - In USB keyboard mode, you have to open a notepad/word and scan any barcode or QR-code to get thier number in your system. As shown in image below
+
+<img src= "https://github.com/sbcshop/Pi-Barcode-HAT/blob/main/images/SC.JPG" />
 
 
 ## Working
