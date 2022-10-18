@@ -1,6 +1,6 @@
 #setting Example of Zero Barcode Scanner
 
-import zero_barcode
+from lib import zero_barcode
 import time
 import sys
 import serial
