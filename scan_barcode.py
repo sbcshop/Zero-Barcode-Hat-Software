@@ -1,5 +1,5 @@
 from PIL import Image,ImageDraw,ImageFont
-import zero_barcode
+from lib import zero_barcode
 import time
 import sys
 
