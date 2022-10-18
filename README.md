@@ -48,7 +48,9 @@
  
 #### Step 3 - Code 
    * **barcode_scanner.py** - Run this file in raspberry pi, Now scan the barcode, you will see barcode also show in display
- 
+#### Step 4 - code 
+* **de2120_ex2_serial_settings.py** - Run this file if woant to change(Configure) settings of Barcode Scanner 
+
 ## Use Zero Barcode HAT without Raspberry Pi( Via USB Cable )
 You can also use this barcode HAT simply with USB cable for reading (without any controller board). 
 
