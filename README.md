@@ -87,7 +87,7 @@ First of all, move all the files from the applications folder to the outside fol
    
 ## Documentation
 
-* [Pi Barcode HAT Hardware](https://github.com/sbcshop/Pi-Barcode-HAT-Hardware)
+* [Zero Barcode HAT Hardware](https://github.com/sbcshop/Zero-Barcode-Hat-Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
