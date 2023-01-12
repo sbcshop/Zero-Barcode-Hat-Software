@@ -85,5 +85,32 @@ First of all, move all the files from the applications folder to the outside fol
   <img src= "https://github.com/sbcshop/Zero-Barcode-Hat/blob/main/images/img2.png" />
 
    
+## Documentation
+
+* [Pi Barcode HAT Hardware](https://github.com/sbcshop/Pi-Barcode-HAT-Hardware)
+* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+## Related Products
+
+* [Pi Barcode HAT](https://shop.sb-components.co.uk/products/barcode-hat-for-raspberry-pi?_pos=1&_sid=aa7761aaf&_ss=r)
+
+ ![Pi Barcode HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/5_4efca5ba-1f85-4eb6-b89b-4d26162b093e.jpg?v=1665556430&width=400)
+
+* [Barcode Breakout](https://shop.sb-components.co.uk/products/barcode-breakout?_pos=2&_sid=f80a0123d&_ss=r)
+
+ ![Barcode Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/3_6c5d4598-fe42-4a18-8d8a-ab235e78c375.jpg?v=1665562539&width=400)
+ 
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
+
+Please contact support@sb-components.co.uk for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=350">
+</p>
 
 
